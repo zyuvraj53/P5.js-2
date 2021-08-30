@@ -1,0 +1,10 @@
+/node_modules
+/.vscode
+# The libraries are p5.min.js ad p5.sound.min.js
+/libraries 
+/sketch.js
+/style.css
+/index.html
+#there is also a jsconfig file here, I'm not going to include it.
+/jsconfig.json
+/desktop.ini
