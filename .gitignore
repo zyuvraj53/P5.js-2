@@ -8,4 +8,6 @@
 #there is also a jsconfig file here, I'm not going to include it.
 /jsconfig.json
 /desktop.ini
-/collatz/node_modules
+/Collatz/node_modules
+/Collatz/package-lock.json
+/Collatz/package.json
