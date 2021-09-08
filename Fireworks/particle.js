@@ -17,5 +17,3 @@ function Particle(x, y) {
     point(this.pos.x, this.pos.y);
   };
 }
-
-asdfasfd
