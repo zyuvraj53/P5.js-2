@@ -11,7 +11,7 @@ function setup() {
 
 function draw() {
   background(125, 0, 255);
-  fireworks.push(new Firework());
+  if(random(1) < 0.1)  fireworks.push(new Firework());
   for (let i = 0; i < fireworks.length; i++) {
     fireworks[i].update();
     fireworks[i].show();
